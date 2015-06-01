@@ -1,0 +1,20 @@
+Main Use-Cases:
+
+1.
+Also Bevollmächtigter meines Instituts möchte ich Forschungsprojekte, Publikationen und Beziehungen zu 
+anderen Einrichtungen übersichtlich verwalten können, dabei lege ich besonderen Wert auf Hilfsmittel
+welche mir redundante Tätigkeiten abnehmen.
+
+2.
+Als Aministrator möchte ich einen umfangreichen Überblick über mögliche Konfigurationen erhalten, dabei
+ist mir wichtig, gemachte Änderungen gut nachvollziehen zu können und eine umfangreiche Dokumentation zur
+Verfügung zu haben.
+
+3.
+Als Angestellter einer Forschungseinrichtung der Universität Leipzig benötige ich eine einfach Schnittstelle,
+welche mir erlaubt die Ergebnisse meiner Forschung in schöner Form automatisch zu präsentieren, dabei lege ich
+besonderen Wert auf eine möglichst einfache Konfiguration.
+
+4.
+Als Entwickler der Universität Leipzig benötige ich ein Softwareprodukt, welches leicht zu verstehen und
+einfach zu erweitern ist, dabei erwarte ich eine umfangreiche Dokumentation des abgelieferten Quellcodes.
