@@ -1,4 +1,6 @@
-Main Use-Cases:
+﻿Main Use-Cases:
+
+WebApp:
 
 1.
 Also Bevollmächtigter meines Instituts möchte ich Forschungsprojekte, Publikationen und Beziehungen zu 
@@ -18,3 +20,16 @@ besonderen Wert auf eine möglichst einfache Konfiguration.
 4.
 Als Entwickler der Universität Leipzig benötige ich ein Softwareprodukt, welches leicht zu verstehen und
 einfach zu erweitern ist, dabei erwarte ich eine umfangreiche Dokumentation des abgelieferten Quellcodes.
+
+
+Datenebene:
+1.
+Trotz fehlender inhaltlicher Prüfung durch Menschen ist die inhaltliche Integrität des Datenbestandes durch
+Validierungen abzusichern.
+
+2.
+Die Kopplung von Datenbank und Eingabemaske ist möglichst direkt zu halten um eine spätere Erweiterung beider 
+Schemata möglichst einfach zu ermöglichen.
+
+3.
+Fragen von Datenverlust und Integrität sind zu klären.
